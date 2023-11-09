@@ -2,8 +2,8 @@
 
 int main(){
 
-    goo();
-    foo();
+    goo(2023);
+    foo(2024);
 
     return 0;
 }
