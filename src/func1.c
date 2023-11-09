@@ -2,4 +2,5 @@
 
 void foo(int m){
     printf("hello %d \n",m);
+    printf("hello new foo");
 }
